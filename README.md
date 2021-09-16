@@ -1,4 +1,4 @@
-# Analysing_defi_markets_with_graphs
+# Analysing transactions on ethereum with knowledge graphs
 
 This is a proof-of-concept, showing that transactions in a specific token (I used pudgy penguins in this case) for a given time period can be represented as directed, weighted knowledge graphs. The "from_address" and "to_address" fields represent the source and target nodes, respectively. The "tx_no" (number of transactions between two addresses) becomes the link weight.
 
