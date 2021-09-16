@@ -1,4 +1,4 @@
-**What does this notebook contain?**
+**Analysing ethereum transactions with knowledge graphs**
 
 This is a proof-of-concept, showing that transactions in a specific token for a given time period can be represented as directed, weighted knowledge graph, from which features are derived for each address.
 
